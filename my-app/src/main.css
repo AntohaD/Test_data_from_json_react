@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+.gbody {
+    margin-top: 30px;
+}
+
+.row {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+    background: rgb(250, 247, 235); /* Цвет фона */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 10px;
+}
+
+.row:active {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+    background: rgb(219, 219, 219); /* Цвет фона */
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+    padding: 10px;
+}
+
+div .col {
+    font-size: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn {
+    margin-left: 47%;
+    margin-top: 3%;
+}
